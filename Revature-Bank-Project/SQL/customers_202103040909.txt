@@ -1,0 +1,8 @@
+|email                                             |customer_password   |first_name                                        |last_name                                         |
+|--------------------------------------------------|--------------------|--------------------------------------------------|--------------------------------------------------|
+|johndiggy@gmail.com                               |jdig1234            |John                                              |Diggy                                             |
+|chadwells1996@hotmail.com                         |chadwells1996       |Chad                                              |Wells                                             |
+|daisyjune22@gmail.com                             |daisyjune22         |Daisy                                             |June                                              |
+|kardmicheal3@yahoo.com                            |kardmicheal3        |Kard                                              |Micheal                                           |
+|scurvytim76@yahoo.com                             |scurvytim76         |Scury                                             |Tim                                               |
+|taklowery8@hotmail.com                            |taklowery8          |Tak                                               |Lowery                                            |

@@ -1,0 +1,96 @@
+DROP TABLE IF EXISTS customers CASCADE;
+
+CREATE TABLE customers ( 
+	email VARCHAR(50) PRIMARY KEY,
+	first_name VARCHAR(50) NOT NULL,
+	last_name VARCHAR(50) NOT NULL,
+	date_joined TIMESTAMP NOT NULL
+);
+
+
+DROP TABLE IF EXISTS posts CASCADE;
+
+CREATE TABLE accounts (
+	account_name VARCHAR(15) PRIMARY KEY,
+	balance MONEY NOT NULL,
+	created_on TIMESTAMP NOT NULL,
+	email VARCHAR (50),
+	FOREIGN KEY(email) REFERENCES customers(email) ON DELETE SET NULL
+);
+
+-- THIS IS A COMMENT
+/*
+ *This is a multiline comment
+ *
+ */
+--DML
+INSERT INTO users (username, first_name, last_name)
+VALUES 
+('hello123', 'John', 'Doe'),
+('abc123', 'Jane', 'Doe');
+--DDL
+TRUNCATE posts;
+
+INSERT INTO posts (content, user_id)
+VALUES
+('This is a post I made','hello123'),
+('Here''s another post', 'hello123');
+
+SELECT *
+FROM accounts;
+
+SELECT *
+FROM customers;
+
+TRUNCATE customers;
+
+INSERT INTO customers (email, first_name, last_name, date_joined)
+VALUES
+('johndiggy@bilp.com', 'John', 'Diggy', '03/21/1689 12:36:21');
+
+-- JAMESON & JAMESON SCRIPT
+DROP TABLE IF EXISTS customer_mail CASCADE;
+
+CREATE TABLE customers ( 
+	email VARCHAR(50) PRIMARY KEY,
+	customer_password VARCHAR(20) NOT NULL,
+	first_name VARCHAR(50) NOT NULL,
+	last_name VARCHAR(50) NOT NULL
+);
+
+
+CREATE TABLE accounts (
+	account_id INT PRIMARY KEY,
+	account_name VARCHAR(50) NOT NULL,
+	customer_email VARCHAR(50) NOT NULL,
+	balance NUMERIC CHECK (balance>=0),
+	status VARCHAR(8) NOT NULL,
+	CONSTRAINT fk_customers FOREIGN KEY(customer_email) REFERENCES customers(email)
+);
+
+CREATE TABLE transactions (
+	id INT PRIMARY KEY,
+	action_type VARCHAR(10) NOT NULL,
+	amount NUMERIC CHECK (amount>=1),
+	from_account_id INT NOT NULL,
+	to_account_id INT NOT NULL,
+	CONSTRAINT fk_accounts FOREIGN KEY(from_account_id) REFERENCES accounts(account_id)
+);
+
+CREATE TABLE customer_mail(
+	time_stamp TIMESTAMP PRIMARY KEY,
+	customer_email VARCHAR(50) NOT NULL,
+	subject VARCHAR(100) NOT NULL,
+	text_body TEXT NOT NULL,
+	from_email VARCHAR(50) NOT NULL,
+	to_email VARCHAR(50) NOT NULL,
+	CONSTRAINT fk_customers FOREIGN KEY(from_email) REFERENCES customers(email)
+);
+
+CREATE TABLE employees (
+	id INT PRIMARY KEY,
+	employee_password VARCHAR(20) NOT NULL,
+	first_name VARCHAR(50) NOT NULL,
+	last_name VARCHAR(50) NOT NULL,
+	hired_on DATE NOT NULL
+);

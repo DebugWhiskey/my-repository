@@ -1,0 +1,230 @@
+03-02-2021 17:39:50 {INFO} [com.revature.util.Login] - kardmicheal@yahoo.comfailed login.
+03-02-2021 17:40:34 {INFO} [com.revature.util.Login] - kardmicheal3@yahoo.comfailed login.
+03-02-2021 17:40:47 {INFO} [com.revature.util.Login] - kardmicheal3@yahoo.com succeffully signed in.
+03-02-2021 17:40:52 {ERROR} [com.revature.dao.UserDAOImpl] - The system failed to connect to the database @ getTransactions(). Error message: ERROR: column "from_customer_name" does not exist
+  Position: 8
+03-02-2021 17:41:50 {INFO} [com.revature.util.Login] - kardmicheal3@yahoo.com succeffully signed in.
+03-02-2021 17:41:51 {ERROR} [com.revature.dao.UserDAOImpl] - The system failed to connect to the database @ getTransactions(). Error message: ERROR: column "customer_email" does not exist
+  Hint: Perhaps you meant to reference the column "transactions.to_customer_email".
+  Position: 91
+03-02-2021 17:42:43 {INFO} [com.revature.util.Login] - kardmicheal3@yahoo.comfailed login.
+03-02-2021 17:44:06 {INFO} [com.revature.util.Login] - kardmicheal3@yahoo.com succeffully signed in.
+03-02-2021 17:46:41 {ERROR} [com.revature.dao.UserDAOImpl] - The system failed to connect to the database @ getTransactions(). Error message: The column name from_customer_name was not found in this ResultSet.
+03-02-2021 17:47:32 {INFO} [com.revature.util.Login] - kardmicheal3@yahoo.com succeffully signed in.
+03-02-2021 17:50:37 {INFO} [com.revature.util.Login] - kardmicheal3@yahoo.com succeffully signed in.
+03-02-2021 17:59:16 {INFO} [com.revature.util.Login] - kardmicheal3@yahoo.com succeffully signed in.
+03-03-2021 08:49:37 {INFO} [com.revature.dao.EmployeeDAOImpl] - Failed to find the id and password combination of: 12341234
+03-03-2021 08:49:37 {INFO} [com.revature.model.Login] - 1234 succeffully signed in.
+03-03-2021 08:57:05 {INFO} [com.revature.dao.EmployeeDAOImpl] - Failed to find the id and password combination of: 12341234
+03-03-2021 08:57:05 {INFO} [com.revature.model.Login] - 1234 succeffully signed in.
+03-03-2021 08:57:10 {INFO} [com.revature.ui.CustomerChoices] - johohcould not be found. E messege: The email 'johoh' was not found!
+03-03-2021 08:59:15 {INFO} [com.revature.dao.EmployeeDAOImpl] - Failed to find the id and password combination of: 123123
+03-03-2021 08:59:15 {INFO} [com.revature.model.Login] - 123 succeffully signed in.
+03-03-2021 09:00:58 {INFO} [com.revature.model.Login] - klhjkljfailed login.
+03-03-2021 09:03:41 {INFO} [com.revature.dao.EmployeeDAOImpl] - Failed to find the id and password combination of: 123123
+03-03-2021 09:03:41 {INFO} [com.revature.model.Login] - 123 succeffully signed in.
+03-03-2021 09:08:18 {INFO} [com.revature.model.Login] - The id: 123 was not found.
+03-03-2021 09:08:31 {INFO} [com.revature.model.Login] - 1234 succeffully signed in.
+03-03-2021 09:08:35 {INFO} [com.revature.ui.CustomerChoices] - Employee failed to find account: sdrrrgsdg E messege: The email 'sdrrrgsdg' was not found!
+03-03-2021 09:28:40 {INFO} [com.revature.model.Login] - 1234 succeffully signed in.
+03-03-2021 09:28:44 {ERROR} [com.revature.dao.EmployeeDAOImpl] - The system failed to connect to the database @ getTransactions(). Error message: The column name date was not found in this ResultSet.
+03-03-2021 09:29:54 {INFO} [com.revature.model.Login] - 1234 succeffully signed in.
+03-03-2021 09:29:56 {ERROR} [com.revature.dao.EmployeeDAOImpl] - The system failed to connect to the database @ getTransactions(). Error message: The column name date was not found in this ResultSet.
+03-03-2021 09:32:58 {INFO} [com.revature.model.Login] - 1234 succeffully signed in.
+03-03-2021 09:33:00 {ERROR} [com.revature.dao.EmployeeDAOImpl] - The system failed to connect to the database @ getALLTransactions(). Error message: The column name date was not found in this ResultSet.
+03-03-2021 09:34:04 {INFO} [com.revature.model.Login] - 1234 succeffully signed in.
+03-03-2021 09:34:06 {ERROR} [com.revature.dao.EmployeeDAOImpl] - The system failed to connect to the database @ getALLTransactions(). Error message: The column name actionType was not found in this ResultSet.
+03-03-2021 09:34:32 {INFO} [com.revature.model.Login] - 1234 succeffully signed in.
+03-03-2021 09:46:33 {INFO} [com.revature.model.Login] - 1234 succeffully signed in.
+03-03-2021 09:47:14 {INFO} [com.revature.model.Login] - 1234 succeffully signed in.
+03-03-2021 09:49:42 {INFO} [com.revature.model.Login] - 1234 succeffully signed in.
+03-03-2021 09:50:50 {INFO} [com.revature.model.Login] - 1234 succeffully signed in.
+03-03-2021 09:53:28 {INFO} [com.revature.model.Login] - The id: 1234 was not found.
+03-03-2021 09:53:36 {INFO} [com.revature.model.Login] - 1234 succeffully signed in.
+03-03-2021 09:54:29 {INFO} [com.revature.model.Login] - 1234 succeffully signed in.
+03-03-2021 09:55:31 {INFO} [com.revature.model.Login] - 1234 succeffully signed in.
+03-03-2021 09:57:26 {INFO} [com.revature.model.Login] - 1234 succeffully signed in.
+03-03-2021 10:33:57 {INFO} [com.revature.model.Login] - johndiggy@gmail.com succeffully signed in.
+03-03-2021 10:34:02 {INFO} [com.revature.ui.CustomerChoices] - johndiggy@gmail.com viewed their accounts.
+03-03-2021 10:37:29 {INFO} [com.revature.model.Login] - johndiggy@gmail.com succeffully signed in.
+03-03-2021 10:37:31 {INFO} [com.revature.ui.CustomerChoices] - johndiggy@gmail.com viewed their accounts.
+03-03-2021 10:46:14 {INFO} [com.revature.model.Login] - johndiggy@gmail.com succeffully signed in.
+03-03-2021 10:46:15 {INFO} [com.revature.ui.CustomerChoices] - johndiggy@gmail.com viewed their accounts.
+03-03-2021 10:47:57 {INFO} [com.revature.model.Login] - johndiggy@gmail.com succeffully signed in.
+03-03-2021 10:48:00 {INFO} [com.revature.ui.CustomerChoices] - johndiggy@gmail.com viewed their accounts.
+03-03-2021 10:48:39 {INFO} [com.revature.model.Login] - johndiggy@gmail.com succeffully signed in.
+03-03-2021 10:48:41 {INFO} [com.revature.ui.CustomerChoices] - johndiggy@gmail.com viewed their accounts.
+03-03-2021 10:49:23 {INFO} [com.revature.ui.CustomerMenus] - johndiggy@gmail.com has succeffully logged out.
+03-03-2021 11:04:40 {INFO} [com.revature.model.Login] - 1234 succeffully signed in.
+03-03-2021 11:23:42 {INFO} [com.revature.model.Login] - 1234 succeffully signed in.
+03-03-2021 11:28:34 {INFO} [com.revature.model.Login] - 1234 succeffully signed in.
+03-03-2021 11:31:19 {INFO} [com.revature.model.Login] - 1234 succeffully signed in.
+03-03-2021 11:31:26 {ERROR} [com.revature.dao.EmployeeDAOImpl] - The system failed to connect to the database @ getPendingAccounts(). Error message: ERROR: operator does not exist: integer = character varying
+  Hint: No operator matches the given name and argument types. You might need to add explicit type casts.
+  Position: 54
+03-03-2021 11:31:26 {ERROR} [com.revature.dao.EmployeeDAOImpl] - The system failed to connect to the database @ getPendingAccounts(). Error message: ERROR: operator does not exist: integer = character varying
+  Hint: No operator matches the given name and argument types. You might need to add explicit type casts.
+  Position: 54
+03-03-2021 11:33:52 {INFO} [com.revature.model.Login] - 1234 succeffully signed in.
+03-03-2021 11:33:57 {ERROR} [com.revature.dao.EmployeeDAOImpl] - The system failed to connect to the database @ getAccountById(). Error message: ERROR: operator does not exist: integer = character varying
+  Hint: No operator matches the given name and argument types. You might need to add explicit type casts.
+  Position: 54
+03-03-2021 11:33:57 {ERROR} [com.revature.dao.EmployeeDAOImpl] - The system failed to connect to the database @ getAccountById(). Error message: ERROR: operator does not exist: integer = character varying
+  Hint: No operator matches the given name and argument types. You might need to add explicit type casts.
+  Position: 54
+03-03-2021 11:36:23 {INFO} [com.revature.model.Login] - 1234 succeffully signed in.
+03-03-2021 11:36:29 {ERROR} [com.revature.dao.EmployeeDAOImpl] - The system failed to connect to the database @ getAccountById(). E message: ERROR: operator does not exist: integer = character varying
+  Hint: No operator matches the given name and argument types. You might need to add explicit type casts.
+  Position: 54
+03-03-2021 11:36:29 {ERROR} [com.revature.dao.EmployeeDAOImpl] - The system failed to connect to the database @ getAccountById(). E message: ERROR: operator does not exist: integer = character varying
+  Hint: No operator matches the given name and argument types. You might need to add explicit type casts.
+  Position: 54
+03-03-2021 11:39:23 {INFO} [com.revature.model.Login] - 1234 succeffully signed in.
+03-03-2021 11:39:26 {ERROR} [com.revature.dao.EmployeeDAOImpl] - The system failed to connect to the database @ getAccountById(). E message: ERROR: operator does not exist: integer = character varying
+  Hint: No operator matches the given name and argument types. You might need to add explicit type casts.
+  Position: 54
+03-03-2021 11:39:26 {ERROR} [com.revature.dao.EmployeeDAOImpl] - The system failed to connect to the database @ getAccountById(). E message: ERROR: operator does not exist: integer = character varying
+  Hint: No operator matches the given name and argument types. You might need to add explicit type casts.
+  Position: 54
+03-03-2021 11:40:07 {INFO} [com.revature.model.Login] - 1234 succeffully signed in.
+03-03-2021 11:40:14 {ERROR} [com.revature.dao.EmployeeDAOImpl] - The system failed to connect to the database @ getAccountById(). E message: ERROR: operator does not exist: integer = character varying
+  Hint: No operator matches the given name and argument types. You might need to add explicit type casts.
+  Position: 54
+03-03-2021 11:40:14 {ERROR} [com.revature.dao.EmployeeDAOImpl] - The system failed to connect to the database @ getAccountById(). E message: ERROR: operator does not exist: integer = character varying
+  Hint: No operator matches the given name and argument types. You might need to add explicit type casts.
+  Position: 54
+03-03-2021 11:40:34 {INFO} [com.revature.model.Login] - 1234 succeffully signed in.
+03-03-2021 11:41:05 {ERROR} [com.revature.dao.EmployeeDAOImpl] - The system failed to connect to the database @ getAccountById(). E message: ERROR: operator does not exist: integer = character varying
+  Hint: No operator matches the given name and argument types. You might need to add explicit type casts.
+  Position: 54
+03-03-2021 11:41:05 {ERROR} [com.revature.dao.EmployeeDAOImpl] - The system failed to connect to the database @ getAccountById(). E message: ERROR: operator does not exist: integer = character varying
+  Hint: No operator matches the given name and argument types. You might need to add explicit type casts.
+  Position: 54
+03-03-2021 11:41:22 {INFO} [com.revature.model.Login] - 1234 succeffully signed in.
+03-03-2021 11:41:26 {ERROR} [com.revature.dao.EmployeeDAOImpl] - The system failed to connect to the database @ getAccountById(). E message: ERROR: operator does not exist: integer = character varying
+  Hint: No operator matches the given name and argument types. You might need to add explicit type casts.
+  Position: 54
+03-03-2021 11:46:46 {INFO} [com.revature.model.Login] - 1234 succeffully signed in.
+03-03-2021 11:47:27 {INFO} [com.revature.model.Login] - 1234 succeffully signed in.
+03-03-2021 12:07:22 {INFO} [com.revature.model.Login] - 1234 succeffully signed in.
+03-03-2021 12:07:36 {ERROR} [com.revature.dao.EmployeeDAOImpl] - The system failed to connect to the database @ updateAccountStatus(). E message: The column index is out of range: 4, number of columns: 2.
+03-03-2021 12:08:48 {INFO} [com.revature.model.Login] - 1234 succeffully signed in.
+03-03-2021 12:12:49 {INFO} [com.revature.model.Login] - johndiggy@gmail.com succeffully signed in.
+03-03-2021 12:17:37 {ERROR} [com.revature.ui.CustomerChoices] - johndiggy@gmail.com failed to post a transaction for 20.0 to user daisyjune22@gmail.com
+03-03-2021 12:20:07 {INFO} [com.revature.model.Login] - johndiggy@gmail.com succeffully signed in.
+03-03-2021 12:20:36 {INFO} [com.revature.model.Login] - johndiggy@gmail.com succeffully signed in.
+03-03-2021 12:22:24 {ERROR} [com.revature.ui.CustomerChoices] - johndiggy@gmail.com failed to post a transaction for 20.0 to user daisyjune22@gmail.comjava.util.Date cannot be cast to java.sql.Date
+03-03-2021 12:27:54 {INFO} [com.revature.model.Login] - johndiggy@gmail.com succeffully signed in.
+03-03-2021 12:28:28 {INFO} [com.revature.ui.CustomerChoices] - johndiggy@gmail.com successfully posted a transaction of 20.0 to user daisyjune22@gmail.com
+03-03-2021 12:35:55 {INFO} [com.revature.model.Login] - johndiggy@gmail.com succeffully signed in.
+03-03-2021 12:36:32 {INFO} [com.revature.ui.CustomerChoices] - johndiggy@gmail.com successfully posted a transaction of 20.0 to user daisyjune22@gmail.com
+03-03-2021 12:39:42 {INFO} [com.revature.model.Login] - daisyjune22@gmail.com succeffully signed in.
+03-03-2021 13:56:46 {INFO} [com.revature.model.Login] - daisyjune22@gmail.com succeffully signed in.
+03-03-2021 13:59:16 {INFO} [com.revature.model.Login] - daisyjune22@gmail.com succeffully signed in.
+03-03-2021 14:00:17 {INFO} [com.revature.model.Login] - june22@gmail.comfailed login.
+03-03-2021 14:00:25 {INFO} [com.revature.model.Login] - daisyjune22@gmail.com succeffully signed in.
+03-03-2021 14:01:00 {INFO} [com.revature.model.Login] - daisyjune22@gmail.com succeffully signed in.
+03-03-2021 14:02:32 {INFO} [com.revature.model.Login] - daisyjune22@gmail.com succeffully signed in.
+03-03-2021 14:03:47 {INFO} [com.revature.model.Login] - daisyjune22@gmail.com succeffully signed in.
+03-03-2021 14:10:33 {INFO} [com.revature.model.Login] - daisyjune22@gmail.com succeffully signed in.
+03-03-2021 14:12:56 {INFO} [com.revature.model.Login] - daisyjune22@gmail.com succeffully signed in.
+03-03-2021 14:16:05 {INFO} [com.revature.model.Login] - daisyjune22@gmail.com succeffully signed in.
+03-03-2021 14:19:19 {INFO} [com.revature.model.Login] - daisyjune22@gmail.com succeffully signed in.
+03-03-2021 14:20:27 {INFO} [com.revature.model.Login] - daisyjune22@gmail.com succeffully signed in.
+03-03-2021 14:21:12 {INFO} [com.revature.model.Login] - daisyjune22@gmail.com succeffully signed in.
+03-03-2021 14:25:07 {INFO} [com.revature.model.Login] - daisyjune22@gmail.com succeffully signed in.
+03-03-2021 14:25:51 {INFO} [com.revature.ui.CustomerChoices] - daisyjune22@gmail.com viewed their accounts.
+03-03-2021 14:27:16 {INFO} [com.revature.model.Login] - daisyjune22@gmail.com succeffully signed in.
+03-03-2021 14:27:19 {INFO} [com.revature.ui.CustomerChoices] - daisyjune22@gmail.com viewed their accounts.
+03-03-2021 14:28:31 {INFO} [com.revature.model.Login] - daisyjune22@gmail.com succeffully signed in.
+03-03-2021 14:28:37 {INFO} [com.revature.ui.CustomerChoices] - daisyjune22@gmail.com viewed their accounts.
+03-03-2021 14:28:58 {INFO} [com.revature.model.Login] - daisyjune22@gmail.com succeffully signed in.
+03-03-2021 14:29:01 {INFO} [com.revature.ui.CustomerChoices] - daisyjune22@gmail.com viewed their accounts.
+03-03-2021 14:37:50 {INFO} [com.revature.model.Login] - dasyjune22@gmail.comfailed login.
+03-03-2021 14:38:08 {INFO} [com.revature.model.Login] - daisyjune22@gmail.com succeffully signed in.
+03-03-2021 14:46:49 {INFO} [com.revature.model.Login] - daisyjane22@gmail.comfailed login.
+03-03-2021 14:47:02 {INFO} [com.revature.model.Login] - daisyjune22@gmail.com succeffully signed in.
+03-03-2021 16:46:07 {INFO} [com.revature.model.Login] - scurvytim76@yahoo.comfailed login.
+03-03-2021 16:46:22 {INFO} [com.revature.model.Login] - scurvytim76@yahoo.com succeffully signed in.
+03-03-2021 16:46:25 {INFO} [com.revature.ui.CustomerChoices] - scurvytim76@yahoo.com viewed their accounts.
+03-03-2021 16:46:46 {INFO} [com.revature.ui.CustomerChoices] - scurvytim76@yahoo.com added the account: Primary and deposted 12.0
+03-03-2021 16:46:51 {INFO} [com.revature.ui.CustomerChoices] - scurvytim76@yahoo.com viewed their accounts.
+03-03-2021 16:47:08 {INFO} [com.revature.ui.CustomerMenus] - scurvytim76@yahoo.com has succeffully logged out.
+03-03-2021 16:48:04 {INFO} [com.revature.model.Login] - 1234 succeffully signed in.
+03-03-2021 16:48:26 {INFO} [com.revature.ui.CustomerMenus] - Employee: 1234 has succeffully logged out.
+03-03-2021 16:48:43 {INFO} [com.revature.model.Login] - scurvytim76@yahoo.com succeffully signed in.
+03-03-2021 16:48:45 {INFO} [com.revature.ui.CustomerChoices] - scurvytim76@yahoo.com viewed their accounts.
+03-03-2021 16:48:59 {INFO} [com.revature.ui.CustomerChoices] - scurvytim76@yahoo.com added the account: Savings and deposted 100.0
+03-03-2021 16:49:42 {INFO} [com.revature.ui.CustomerMenus] - scurvytim76@yahoo.com has succeffully logged out.
+03-03-2021 16:49:48 {INFO} [com.revature.model.Login] - 1234 succeffully signed in.
+03-03-2021 16:50:00 {INFO} [com.revature.ui.CustomerMenus] - Employee: 1234 has succeffully logged out.
+03-03-2021 16:50:14 {INFO} [com.revature.model.Login] - scurytim76@yahoo.comfailed login.
+03-03-2021 16:50:26 {INFO} [com.revature.model.Login] - scurvytim76failed login.
+03-03-2021 16:50:39 {INFO} [com.revature.model.Login] - scurvytim76@yahoo.com succeffully signed in.
+03-03-2021 16:50:42 {INFO} [com.revature.ui.CustomerChoices] - scurvytim76@yahoo.com viewed their accounts.
+03-03-2021 16:51:34 {INFO} [com.revature.ui.CustomerChoices] - scurvytim76@yahoo.com successfully deposited 100.0 into Primary
+03-03-2021 16:52:23 {INFO} [com.revature.ui.CustomerChoices] - scurvytim76@yahoo.com successfully withdrew 12.5 from Primary
+03-03-2021 17:00:47 {INFO} [com.revature.ui.CustomerMenus] - scurvytim76@yahoo.com has succeffully logged out.
+03-03-2021 17:01:27 {INFO} [com.revature.model.Login] - scurvytim76@gmail.comfailed login.
+03-03-2021 17:03:11 {INFO} [com.revature.model.Login] - scurvytim76@yahoo.com succeffully signed in.
+03-03-2021 17:03:13 {INFO} [com.revature.ui.CustomerChoices] - scurvytim76@yahoo.com viewed their accounts.
+03-03-2021 17:03:41 {INFO} [com.revature.ui.CustomerChoices] - scurvytim76@yahoo.com successfully deposited 123.75 into Savings
+03-03-2021 17:03:52 {INFO} [com.revature.ui.CustomerChoices] - scurvytim76@yahoo.com successfully withdrew 20.0 from Savings
+03-03-2021 17:05:39 {INFO} [com.revature.ui.CustomerChoices] - scurvytim76@yahoo.com successfully transferred 50.0 from Primary into Savings
+03-03-2021 17:06:22 {INFO} [com.revature.ui.CustomerChoices] - scurvytim76@yahoo.com successfully posted a transaction of $20.0 to user daisyjune22@gmail.com
+03-03-2021 17:06:36 {INFO} [com.revature.ui.CustomerMenus] - scurvytim76@yahoo.com has succeffully logged out.
+03-03-2021 17:06:53 {INFO} [com.revature.model.Login] - daisyjune22@gmail.com succeffully signed in.
+03-03-2021 17:06:55 {INFO} [com.revature.ui.CustomerChoices] - daisyjune22@gmail.com viewed their accounts.
+03-03-2021 17:07:14 {INFO} [com.revature.ui.CustomerChoices] - daisyjune22@gmail.com added the account: Savings and deposted 20.12
+03-03-2021 17:07:17 {INFO} [com.revature.ui.CustomerChoices] - daisyjune22@gmail.com viewed their accounts.
+03-03-2021 17:07:39 {INFO} [com.revature.ui.CustomerMenus] - daisyjune22@gmail.com has succeffully logged out.
+03-03-2021 17:07:46 {INFO} [com.revature.model.Login] - 1234 succeffully signed in.
+03-03-2021 17:12:56 {INFO} [com.revature.ui.CustomerMenus] - Employee: 1234 has succeffully logged out.
+03-03-2021 17:13:18 {INFO} [com.revature.model.Login] - dasyjune22@gmail.comfailed login.
+03-03-2021 17:13:28 {INFO} [com.revature.model.Login] - daisyjune22@gmail.com succeffully signed in.
+03-03-2021 17:13:29 {INFO} [com.revature.ui.CustomerChoices] - daisyjune22@gmail.com viewed their accounts.
+03-03-2021 17:23:09 {INFO} [com.revature.ui.CustomerChoices] - daisyjune22@gmail.com successfully posted a transaction of $20.0 to user johndiggy@gmail.com
+03-03-2021 17:23:35 {INFO} [com.revature.ui.CustomerChoices] - daisyjune22@gmail.com successfully posted a transaction of $20.0 to user johndiggy@gmail.com
+03-03-2021 17:23:45 {INFO} [com.revature.ui.CustomerMenus] - daisyjune22@gmail.com has succeffully logged out.
+03-03-2021 17:26:36 {INFO} [com.revature.model.Login] - johndiggy@gmail.com succeffully signed in.
+03-03-2021 17:26:39 {INFO} [com.revature.ui.CustomerChoices] - johndiggy@gmail.com viewed their accounts.
+03-03-2021 17:28:53 {INFO} [com.revature.model.Login] - johndiggy@gmail.com succeffully signed in.
+03-03-2021 17:46:53 {INFO} [com.revature.model.Login] - johndiggy@gmail.com succeffully signed in.
+03-03-2021 17:49:43 {INFO} [com.revature.ui.CustomerMenus] - johndiggy@gmail.com has succeffully logged out.
+03-04-2021 01:59:57 {INFO} [com.revature.services.Login] - johndiggy@gmail.com succeffully signed in.
+03-04-2021 01:59:58 {INFO} [com.revature.services.CustomerChoices] - johndiggy@gmail.com viewed their accounts.
+03-04-2021 02:01:01 {INFO} [com.revature.services.CustomerChoices] - johndiggy@gmail.com successfully posted a transaction of $25.15 to user daisyjune22@gmail.com
+03-04-2021 02:01:27 {INFO} [com.revature.services.CustomerChoices] - johndiggy@gmail.com successfully posted a transaction of $20.0 to user daisyjones22@gmail.com
+03-04-2021 02:03:51 {INFO} [com.revature.services.CustomerChoices] - johndiggy@gmail.com successfully posted a transaction of $10.12 to user daisyjune22@gmail.com
+03-04-2021 02:04:04 {INFO} [com.revature.ui.CustomerMenus] - johndiggy@gmail.com has succeffully logged out.
+03-04-2021 02:04:18 {INFO} [com.revature.services.Login] - daisyjune22@gmail.com succeffully signed in.
+03-04-2021 02:05:10 {INFO} [com.revature.ui.CustomerMenus] - daisyjune22@gmail.com has succeffully logged out.
+03-04-2021 02:08:26 {INFO} [com.revature.services.Login] - 1234 succeffully signed in.
+03-04-2021 02:11:39 {INFO} [com.revature.services.Login] - 1234 succeffully signed in.
+03-04-2021 02:15:18 {INFO} [com.revature.services.Login] - 1234 succeffully signed in.
+03-04-2021 02:24:21 {INFO} [com.revature.services.Login] - 1234 succeffully signed in.
+03-04-2021 02:28:14 {INFO} [com.revature.services.Login] - 1234 succeffully signed in.
+03-04-2021 02:36:58 {INFO} [com.revature.services.Login] - 1234 succeffully signed in.
+03-04-2021 02:39:11 {INFO} [com.revature.services.Login] - 1234 succeffully signed in.
+03-04-2021 02:40:48 {INFO} [com.revature.services.Login] - 1234 succeffully signed in.
+03-04-2021 02:48:42 {INFO} [com.revature.services.Login] - 1234 succeffully signed in.
+03-04-2021 02:56:48 {INFO} [com.revature.services.Login] - sdklfjfailed login.
+03-04-2021 02:57:23 {INFO} [com.revature.services.Login] - chadwells1996@hotmail.com succeffully signed in.
+03-04-2021 02:57:25 {INFO} [com.revature.services.CustomerChoices] - chadwells1996@hotmail.com viewed their accounts.
+03-04-2021 02:57:38 {INFO} [com.revature.services.CustomerChoices] - chadwells1996@hotmail.com added the account: Primary and deposted 10.0
+03-04-2021 02:57:45 {INFO} [com.revature.services.CustomerChoices] - chadwells1996@hotmail.com viewed their accounts.
+03-04-2021 02:57:56 {INFO} [com.revature.services.CustomerChoices] - chadwells1996@hotmail.com added the account: Savings and deposted 20.0
+03-04-2021 02:58:06 {INFO} [com.revature.services.CustomerChoices] - chadwells1996@hotmail.com viewed their accounts.
+03-04-2021 02:58:21 {INFO} [com.revature.services.CustomerChoices] - chadwells1996@hotmail.com added the account: Secondary and deposted 100.0
+03-04-2021 02:58:23 {INFO} [com.revature.services.CustomerChoices] - chadwells1996@hotmail.com viewed their accounts.
+03-04-2021 02:58:57 {INFO} [com.revature.services.Login] - 1234 succeffully signed in.
+03-04-2021 03:02:11 {INFO} [com.revature.services.Login] - 1234 succeffully signed in.
+03-04-2021 03:02:47 {INFO} [com.revature.services.Login] - 1234 succeffully signed in.
+03-04-2021 03:05:27 {INFO} [com.revature.services.Login] - 1234 succeffully signed in.
+03-04-2021 03:06:38 {INFO} [com.revature.ui.CustomerMenus] - Employee: 1234 has succeffully logged out.
+03-04-2021 03:07:00 {INFO} [com.revature.services.Login] - chadwells1996@gmail.comfailed login.
+03-04-2021 03:07:13 {INFO} [com.revature.services.Login] - chadwells1996@hotmail.com succeffully signed in.
+03-04-2021 03:07:26 {INFO} [com.revature.services.CustomerChoices] - chadwells1996@hotmail.com added the account: Primary and deposted 25.0
+03-04-2021 03:07:54 {INFO} [com.revature.services.CustomerChoices] - chadwells1996@hotmail.com viewed their accounts.
+03-04-2021 03:16:53 {INFO} [com.revature.services.Login] - chadwells1996@hotmail.com succeffully signed in.
+03-04-2021 03:20:06 {INFO} [com.revature.services.Login] - chadwells1996@hotmail.com succeffully signed in.
